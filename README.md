@@ -1,1 +1,1 @@
-<a href='http://www.azote.org/' title='Nom de domaine' target='_blank'>Nom de domaine gratuit</a>
+CNAME powered by <a href='http://www.azote.org/' target='blank'>azote.org</a>.
